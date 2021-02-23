@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+// import logo from './logo.svg';
 import './App.css';
 import React from 'react';
 import List from './Components/List'
@@ -39,7 +39,7 @@ onSubmit = (event) =>{
     <div>
     <div className="header">
           <div className ="wrapper">
-          <img src = "img/r2h-icon.png" />
+          <img src = "img/r2h-icon.png"  alt="r2h icon"/>
           <p className="title">Road To Hire</p>
           </div>
         </div>
